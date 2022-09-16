@@ -23,10 +23,10 @@ else
 }
 if (C < max)
 {
-    Console.Write($"Наименьшее число: {max}");
+    Console.Write($"Наибольшее число: {max}");
 }
 else
 {
     max = C;
-    Console.Write($"Наименьшее число: {max}");
+    Console.Write($"Наибольшее число: {max}");
 }
